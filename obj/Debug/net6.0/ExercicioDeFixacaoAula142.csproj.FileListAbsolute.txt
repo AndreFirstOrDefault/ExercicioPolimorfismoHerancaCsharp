@@ -1,0 +1,15 @@
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\bin\Debug\net6.0\ExercicioDeFixacaoAula142.exe
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\bin\Debug\net6.0\ExercicioDeFixacaoAula142.deps.json
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\bin\Debug\net6.0\ExercicioDeFixacaoAula142.runtimeconfig.json
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\bin\Debug\net6.0\ExercicioDeFixacaoAula142.dll
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\bin\Debug\net6.0\ExercicioDeFixacaoAula142.pdb
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\obj\Debug\net6.0\ExercicioDeFixacaoAula142.csproj.AssemblyReference.cache
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\obj\Debug\net6.0\ExercicioDeFixacaoAula142.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\obj\Debug\net6.0\ExercicioDeFixacaoAula142.AssemblyInfoInputs.cache
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\obj\Debug\net6.0\ExercicioDeFixacaoAula142.AssemblyInfo.cs
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\obj\Debug\net6.0\ExercicioDeFixacaoAula142.csproj.CoreCompileInputs.cache
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\obj\Debug\net6.0\ExercicioDeFixacaoAula142.dll
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\obj\Debug\net6.0\refint\ExercicioDeFixacaoAula142.dll
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\obj\Debug\net6.0\ExercicioDeFixacaoAula142.pdb
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\obj\Debug\net6.0\ExercicioDeFixacaoAula142.genruntimeconfig.cache
+D:\CursoCsharpNelioAlves\ExercicioDeFixacaoAula142\obj\Debug\net6.0\ref\ExercicioDeFixacaoAula142.dll
